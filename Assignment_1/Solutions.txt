@@ -1,0 +1,3 @@
+Nature of Root : Real Roots 
+Root 1 = -2.000000 
+Root 2 = -3.000000 
